@@ -1,0 +1,3 @@
+include ':WelcomeLib'
+include ':app'
+rootProject.name = "MeWelcome"
